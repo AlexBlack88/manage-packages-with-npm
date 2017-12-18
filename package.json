@@ -1,0 +1,20 @@
+{
+  "name": "@alexblack88/manage-packages-with-npm",
+  "version": "1.1.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Alex Black",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexBlack88/manage-packges-with-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexBlack88/manage-packges-with-npm/issues"
+  },
+  "homepage": "https://github.com/AlexBlack88/manage-packges-with-npm#readme",
+  "description": "fcc back-end course",
+  "dependencies": {}
+}
